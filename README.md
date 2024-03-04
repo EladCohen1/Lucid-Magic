@@ -16,6 +16,10 @@ In an epic battle the witch casts a curse on our hero, sending them to an endles
 But all is not lost! Our hero also has some control of the dream, allowing them to manifest 3 of their allies to aid them in battle against the dream.
 Now, they must defeat the dream to save the kingdom.
 
+## How To Download
+To download and play the latest version of lucid magic press the blue "Code" button on the top right of this page and press "Download zip".
+Once it has finished downloading extract the zip file and use the Lucid Magic.exe file to start up the game.
+
 ## How To Play
 Lucid Magic is meant to be played on a single computer as each player takes control in their turn.
 Before the game starts, each player will need to choose a 4 card team, 1 hero and 3 companions:
