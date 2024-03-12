@@ -43,6 +43,6 @@ When a companion dies in battle, they get sent to the graveyard. Players can cho
 ![image](https://github.com/EladCohen1/Lucid-Magic/assets/51457155/0cb9bcf2-8228-413a-a9fe-7cbde0105b56)
 
 
-Choosing the correct team for the job is just as important as strategic use of heroic actions, card abilities and basic attacks. Only once you master the art of combat within the dream, can you truely hope to break out of it.
+Choosing the correct team for the job is just as important as strategic use of heroic actions, card abilities and basic attacks. Only once you master the art of combat within the dream, can you truly hope to break out of it.
 Good luck heroes.
 And sweet dreams.
