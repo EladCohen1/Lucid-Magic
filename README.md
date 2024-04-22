@@ -3,6 +3,10 @@
 
 ![image](https://github.com/EladCohen1/Lucid-Magic/assets/51457155/3be9e98a-d94a-4165-b42d-eac6eff0b24b)
 
+## How To Download
+To download and play the latest version of lucid magic press the blue "Code" button on the top right of this page and press "Download zip".
+Once it has finished downloading extract the zip file and use the Lucid Magic.exe file to start up the game.
+
 ## Overview
 Lucid Magic is a 1 vs 1 competitive card game.
 Each player will choose a hero and three companions as their team for the game.
@@ -16,10 +20,6 @@ Our hero sets out to defeat the evil witch with his seven companions.
 In an epic battle the witch casts a curse on our hero, sending them to an endless lucid dream. The dream is ruthless, manifesting itself as our hero’s allies.
 But all is not lost! Our hero also has some control of the dream, allowing them to manifest 3 of their allies to aid them in battle against the dream.
 Now, they must defeat the dream to save the kingdom.
-
-## How To Download
-To download and play the latest version of lucid magic press the blue "Code" button on the top right of this page and press "Download zip".
-Once it has finished downloading extract the zip file and use the Lucid Magic.exe file to start up the game.
 
 ## How To Play
 Lucid Magic is meant to be played on a single computer as each player takes control in their turn.
